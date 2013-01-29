@@ -1,13 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package prog043_factoresprimos;
 
-/**
- *
- * @author theasker
- */
 public class Main {
-  
+  public static void main(String[] args){
+    Factorizar factor = new Factorizar();
+  }
 }
